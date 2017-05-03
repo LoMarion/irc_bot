@@ -1,5 +1,6 @@
 # irc_bot
 A (little) chatty bot
+Using Ruby and IRC
 
 Chat with iti, the irc bot. He will respond to these sentences:
 
